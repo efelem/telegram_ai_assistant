@@ -62,7 +62,7 @@ pip install -e .
 
 ## Configuration
 
-Renanme the.env.example to `.env` file in the root directory and fill in your OpenAI and Telegram credentials. For consistency, both TELEGRAM_TOKEN_BOT and ASSISTANT_ID_BOT support comma-separated lists for multiple bot configurations.
+Rename the.env.example to `.env` file in the root directory and fill in your OpenAI and Telegram credentials. For consistency, both TELEGRAM_TOKEN_BOT and ASSISTANT_ID_BOT support comma-separated lists for multiple bot configurations.
 
 Example .env file:
 
